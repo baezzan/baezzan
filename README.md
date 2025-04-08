@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm jeong hyeon😊&desc=This%20is%20Baezzan%20playground.%20&fontSize=70&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20jeong%20hyeon😊&desc=This%20is%20Baezzan%20playground.%20&fontSize=70&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 🎓 Senior student majoring in Computer Engineering  
 ---
